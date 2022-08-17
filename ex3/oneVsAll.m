@@ -20,10 +20,10 @@ all_theta = zeros(num_labels, n + 1);    %Dimensions: 10 x 401
 % Add ones to the X data matrix
 X = [ones(m, 1) X];    %Dimensions: m x (input_layer_size + 1) = m x (no_of_features + 1) 
 
-% ====================== YOUR CODE HERE ======================
-%the following code to train num_labels
-%logistic regression classifiers with regularization
-%parameter lambda. 
+
+% the following code to train num_labels
+% logistic regression classifiers with regularization
+% parameter lambda. 
 %
 
 
