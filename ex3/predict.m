@@ -10,7 +10,7 @@ num_labels = size(Theta2, 1);
 % You need to return the following variables correctly 
 p = zeros(size(X, 1), 1);  %m x 1 
 
-% ====================== YOUR CODE HERE ======================
+
 
 %DIMENSIONS: 
 % theta1 = 25 x 401 
